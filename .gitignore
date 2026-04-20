@@ -1,0 +1,6 @@
+build/
+install/
+log/
+rosbag*/
+*.db3
+*.bag
